@@ -1,2 +1,2 @@
 # linuxhubit-scheduling
-Archive issuses for linuxhub.it scheduling
+Archive for linuxhub.it scheduling
